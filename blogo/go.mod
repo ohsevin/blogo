@@ -13,7 +13,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 	github.com/nbd-wtf/go-nostr v0.19.5
 	github.com/redis/go-redis/v9 v9.0.5
-	github.com/rs/cors v1.9.0
+	github.com/rs/cors v1.11.0
 	github.com/rs/zerolog v1.30.0
 	github.com/yuin/goldmark v1.5.5
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
